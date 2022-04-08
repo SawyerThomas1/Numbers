@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color: ghostwhite;
+}
+
+#number {
+    background-color: darkblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.numbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+}
+
+#tester {
+    margin-left: 20px;
+    background-color: black;
+    color: lightpink;
+    padding: 50;
+}
+
+.header{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    width: 50%;
+    margin-left: 10px;
+}
+
+.head3{
+    display: flex;
+    justify-content: center;
+}
